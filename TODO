@@ -1,0 +1,3 @@
+07:11:30 < relrod>  - it doesn't fail. at all. ever. you could throw it HTTP 9001 and it wouldn't show failure. :(
+07:12:03 < relrod>  - sort of like #1, it doesn't do anything with HTTP response codes. For GETs at least, it should return the response code somewhere.
+07:12:48 < relrod>  - It's not documented
