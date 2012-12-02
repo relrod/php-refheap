@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__).'/RefHeapUtils.php';
-require_once dirname(__FILE__).'/RefHeapCURLClient.php';
-require_once dirname(__FILE__).'/RefHeapPaste.php';
-require_once dirname(__FILE__).'/RefHeapClient.php';
+require_once dirname(__FILE__).'/src/RefHeapUtils.php';
+require_once dirname(__FILE__).'/src/RefHeapCURLClient.php';
+require_once dirname(__FILE__).'/src/RefHeapPaste.php';
+require_once dirname(__FILE__).'/src/RefHeapClient.php';
